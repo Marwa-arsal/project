@@ -1,0 +1,42 @@
+.butn{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+}
+.navbar-nav .nav-item{
+    margin-right: 30px;
+}
+.butn2{
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    padding-left: 10px;
+}
+.arrow1{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border-radius: 90rem;
+    color: red;
+}.welcomesec{
+    margin-top: 50px; 
+    background-color: black;
+    color: white;
+}
+.typo{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.typo2{
+    padding-top: 20px !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.typo4{
+
+}
+.designtype{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 20 !important;
+}
